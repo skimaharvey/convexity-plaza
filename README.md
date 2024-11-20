@@ -1,6 +1,4 @@
 
-# Part 1: Coding Challenge
-
 
 # OllieCoin Documentation
 
